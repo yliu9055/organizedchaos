@@ -2,11 +2,29 @@
 layout: page
 title: About
 ---
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+}
+img.resize {
+  max-width:4%;
+  max-height:4%;
+  float: left;
+  margin-right: 20px;
+}
+</style>
 
-<p class="message">
-</p>
+![1](./public/img/suit.jpg){: .image-left } My name is Liu Yang. I graduated from NTU with a BS. in chemistry. This blog serves to document the questions and answers I've found during my study, work and life, centered on chemistry and expat life in Singapore.
 
-![left-aligned-image](public\img\suit.jpg){:.align-left}
-My name is Liu Yang. I graduated from NTU with a Bsc. in chemistry. This blog serves to document the questions and answers I've found during my study, work and life, centered on chemistry and life as an expat in Singapore.
+I am actively looking for a job in Singapore. Feel free to have a look at my resume. 
 
-I am currently looking for a job in Singapore. Please refer to my CV here (pdf format). I can be reached by email: yliu9055@gmail.com, or drop me a call at +65-81788856.
+[Download Word Document](/organizedchaos/public/LiuYangResume.docx)  
+
+[Download PDF](/organizedchaos/public/LiuYangResume.pdf)
+
+![2](/organizedchaos/public/img/mail.png){: .resize }  yliu9055@gmail.com
+
+![2](/organizedchaos/public/img/phone.png){: .resize }  +65-81788856.
