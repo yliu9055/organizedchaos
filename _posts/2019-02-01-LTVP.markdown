@@ -27,18 +27,18 @@ I am a scholar who returned to Singapore 3 years after graduation to look for a 
 ### Return of Student Pass
 This is hassle-free and takes no time. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticket machine at the door to get a queue number. Wait for 10 min to see an officer and pass her your STP.
 
-I did not return my STP when I graduated. Although the norm is to return your STP within 7 days of your graduation, I did not encounter any problem returning it 3 years later. That being said, just take some time to return it immediately after graduation, as it is quick and painless anyway.
+I did not return my STP when I graduated. Although the norm is to return your STP within 7 days of your graduation, I did not encounter any problem returning it 3 years later. That being said, just take some time to return it immediately after graduation, as it is very quick.
 
 ### Application of LTVP, Part 1
-I was told to apply online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, after I keyed in my information, the system threw an error "The travel document details are not valid.". Later I knew that it was because I had changed my passport before so that the number was different. I was forced to go to ICA to enquire in person.
+I was told to apply online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, after I keyed in my information, the system threw an error "The travel document details are not valid.". Later I knew that it was because I had changed my passport before so the number was different. I was forced to go to ICA to enquire in person.
 
 I again went to Level 4 and queued up at the foreigner service counter. The queue can be insane at times, filled with glommy expats musing over their uncertain future. To save time, either go early, at 8:00 am, or go during lunchtime, when the traffic thins noticeably.
 
 The receiptionist at the counter told me that it was because I had changed my passport. She updated my passport particulars, and asked me to go to the e-service center at Level 1 to retry. Unfortunately, the error persisted. The receptionist then directed me to submit my application over the counter and gave me a [form 14](https://www.ica.gov.sg/cms/files/forms/Form14.pdf) to fill in. She also mentioned that I would need a sponsor letter from MOE to facilitate my application.
 
-I made a call to the bond manager at NTU. She kindly told me that some of their scholars had no problem using the scholarship agreement as a sponsor letter. I returned to ICA and asked the receptionist again. She insisted I got a letter from MOE and refused to give me a queue number. My speculation was that because I was with a 6-year bond comprised of both TG and the company scholarship, the agreement for the company scholarship alone wouldn't suffice. It seemed a convesation with MOE was inevitable.
+I made a call to the bond manager at NTU. She kindly told me that some of their scholars had no problem using the scholarship agreement as a sponsor letter. I returned to ICA and asked the receptionist again. She insisted that I got a letter from MOE and refused to give me a queue number. My speculation was that because my 6-year bond was comprised of both TG and the company scholarship, the agreement for the company scholarship alone wouldn't suffice. It seemed a convesation with MOE was inevitable.
 
-__protips__: 
+__Pro-tips__: 
 1. Form 14 reuses a lot of information from form 14a, so if you have a previously completed form 14a, bring it with you. 
 2. Bring a phone with access to the Internet. When the receptionist tell you to retry the e-service, just try on the spot to see if the problem persists. 
 3. Ask specifically whether a sponsor letter from MOE is needed or a scholarship agreement will suffice. 
