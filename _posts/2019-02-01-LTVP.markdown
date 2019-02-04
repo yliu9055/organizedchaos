@@ -4,7 +4,7 @@ title:  "Applying LTVP for Returning Scholars: My Story"
 date: 2019-2-1
 category: expat
 ---
-## ICA Webpage on the Application of an LTVP
+## ICA Webpage on the Application of LTVP
 [https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl](https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl)
 
 ## Required Documents
@@ -15,32 +15,32 @@ category: expat
   * 400 x 514, jpg format, size <= 60kB
 * Graduation certificate
 * Passport biodata page. must have at least 6-month validity.
-* D/E card (if you just arrived by plane)
+* D/E card (for those on tourist visa)
 * For graduates who wish to extend their LTVP, or scholars with prolonged unemployment, a [letter of support](https://tgonline.moe.gov.sg/docs/F-UnemploymentAndLTVP%20Extension.pdf) from MOE is needed.
 * (never used but advised to have) scholarship agreements
 
 ## My Story
 
 ### Background
-I am a scholar who returned to Singapore 3 years after graduation to finally start looking for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA on this matter.
+I am a scholar who returned to Singapore 3 years after graduation to look for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA on this matter.
 
 ### Return of Student Pass
-This is hassle-free and takes no time. Just walk into ICA and go to the 4th Floor, the student pass division. Use the ticket machine at the door to get a queue number. Wait for 10 min to see an officer and pass her your STP. Done.
+This is hassle-free and takes no time. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticket machine at the door to get a queue number. Wait for 10 min to see an officer and pass her your STP.
 
-I did not return my STP when I graduated. Although it is advised to return your STP within 7 days of your graduation, I did not encounter any problem returning it 3 years past due. That being said, just take some time to return it immediately after graduation, as it is an easy process anyway.
+I did not return my STP when I graduated. Although the norm is to return your STP within 7 days of your graduation, I did not encounter any problem returning it 3 years later. That being said, just take some time to return it immediately after graduation, as it is quick and painless anyway.
 
 ### Application of LTVP, Part 1
-I was told to apply online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, after I keyed in my information, the system threw an error "The travel document details are not valid.". Later I knew that it was because I had changed my passport number as the old one was going to expire. I was forced to go to ICA to enquire in person.
+I was told to apply online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, after I keyed in my information, the system threw an error "The travel document details are not valid.". Later I knew that it was because I had changed my passport before so that the number was different. I was forced to go to ICA to enquire in person.
 
-I again went to Level 4 and queued up at the foreigner service counter. The queue can be insane at times, filled with glommy, troubled expats. I joined the silent procession to the receiption desk. It is advised to either go early, at 8:00 am, or go during lunchtime, when the traffic is considerably lower.
+I again went to Level 4 and queued up at the foreigner service counter. The queue can be insane at times, filled with glommy expats musing over their uncertain future. To save time, either go early, at 8:00 am, or go during lunchtime, when the traffic thins noticeably.
 
-The receiptionist at the counter told me that it was because of the change of my passport. She updated my passport particulars, and asked me to go to the e-service center at Level 1 to try applying online again. Unfortunately, the error persisted. The receptionist then directed me to submit my application over the counter and gave me a [form 14](https://www.ica.gov.sg/cms/files/forms/Form14.pdf) to fill in. She also mentioned that I would need a sponsor letter from MOE to facilitate my application.
+The receiptionist at the counter told me that it was because I had changed my passport. She updated my passport particulars, and asked me to go to the e-service center at Level 1 to retry. Unfortunately, the error persisted. The receptionist then directed me to submit my application over the counter and gave me a [form 14](https://www.ica.gov.sg/cms/files/forms/Form14.pdf) to fill in. She also mentioned that I would need a sponsor letter from MOE to facilitate my application.
 
-I made a call to the bond manager at NTU first. She kindly told me that some scholars had no problem using the scholarship agreement as a sponsor letter. I returned to ICA and enquire the receptionist again. She insisted I got a letter from MOE and refused to give me a queue number. (probably because I am with a 6-year bond consisting both TG and the company scholarship, so the agreement for the company scholarship alone wouldn't suffice) It seemed a trip to MOE was inevitable.
+I made a call to the bond manager at NTU. She kindly told me that some of their scholars had no problem using the scholarship agreement as a sponsor letter. I returned to ICA and asked the receptionist again. She insisted I got a letter from MOE and refused to give me a queue number. My speculation was that because I was with a 6-year bond comprised of both TG and the company scholarship, the agreement for the company scholarship alone wouldn't suffice. It seemed a convesation with MOE was inevitable.
 
 __protips__: 
 1. Form 14 reuses a lot of information from form 14a, so if you have a previously completed form 14a, bring it with you. 
-2. Bring a phone connected to mobile network. When the receptionist tell you to retry the e-service, just try on the spot to see if the problem persists. 
+2. Bring a phone with access to the Internet. When the receptionist tell you to retry the e-service, just try on the spot to see if the problem persists. 
 3. Ask specifically whether a sponsor letter from MOE is needed or a scholarship agreement will suffice. 
 
 
@@ -48,12 +48,12 @@ __protips__:
 ---TBC---
 
 ### Facilities around ICA
-There is a buzzing **food court** at the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. For printing, you have to go to a **printing shop in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
+There is a **food court** at the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. For printing, you have to go to a **printing shop in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
 
 ## Extra Cautions
 ### Proof of onward travel
-If you're traveling one-way on a tourist visa, it is an international norm for airline receiptionists to ask you for a proof of onward travel - a ticket leaving this country. In our case, our reason to stay long-term at Singapore is completely legit, but that will not convince the receiptionists to let you onboard. 
+If you're traveling one-way on a tourist visa, it is a regulatory requirement for airline receptionists to ask you for a proof of onward travel - a ticket leaving this country. In our case, our reason to stay long-term at Singapore is completely legit, but that alone is not enough to convince the receptionists to give you your ticket - even if the customs officer at the destination country won't bat an eye to let you through. 
 
-Thus, it is imperative that you prepare a leaving ticket in advance, or risk missing your flight.
+Thus, it is imperative that you prepare a leaving ticket in advance, or risk missing your flight / spending a lot more to get a return ticket on the spot.
 
-Refer to [this article](https://expertvagabond.com/proof-of-onward-travel/) for economic ways to get your proof of onward travel. It is said that those flying to Singapore can get away by buying a bus ticket to Malaysia which is very cheap (around $30).
+Refer to [this article](https://expertvagabond.com/proof-of-onward-travel/) for economic ways to get your proof of onward travel. It is said that those flying to Singapore can get away by buying a bus ticket to Malaysia, which is very cheap (around $30).
