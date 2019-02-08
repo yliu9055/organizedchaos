@@ -23,7 +23,7 @@ I am actively looking for a job in Singapore. Feel free to have a look at my res
 
 [Download Word Document](/organizedchaos/public/LiuYangResume.docx)  
 
-[Download PDF](/organizedchaos/public/LiuYangResume.pdf)
+[Download PDF](/organizedchaos/public/LiuYang1Resume.pdf)
 
 ![2](/organizedchaos/public/img/mail.png){: .resize }  yliu9055@gmail.com
 

@@ -15,4 +15,4 @@ Learning the "hard way" is sometimes the best way.
 
 
 
-<span class="post-date">-- Dr. Mariusz Twardowski in [5.35 Introduction to Experimental Chemistry](https://ocw.mit.edu/courses/chemistry/5-35-introduction-to-experimental-chemistry-fall-2012/index.htm#), Fall 2012, MIT </span>
+<span class="post-date">-- Dr. Mariusz Twardowski in [5.35 Introduction to Experimental Chemistry](https://ocw.mit.edu/courses/chemistry/5-35-introduction-to-experimental-chemistry-fall-2012/index.htm#), Fall 2012, [MIT](/organizedchaos/public/LiuYangResume.pdf) </span>
