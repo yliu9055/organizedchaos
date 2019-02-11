@@ -20,7 +20,11 @@ title: Blog
     {% endif %}
 
     <article>
-      {{ post.content | truncatewords:150 }}
+      {% if post.content contains "<!-- more -->" %}
+      {{ post.content | split:"<!-- more -->" | first % }}
+      {% else %}
+      {{ post.content | truncatewords:100 }}
+      {% endif %}
     <article>
     <div class="post-more">
       {% if site.disqus_short_name %}
