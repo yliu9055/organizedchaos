@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Applying LTVP for Returning Scholars: My Story"
+title:  "Applying LTVP for Returning Scholars: A Long Story"
 date: 2019-2-1
 category: expat
 ---
-## ICA Webpage on the Application of LTVP
+## ICA Webpage on the Application of Long-Term Visit Pass (LTVP)
+Refer to this page for some background knowledge and the portal to the e-service.
 [https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl](https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl)
 
 ## Required Documents
@@ -22,30 +23,54 @@ category: expat
 ## My Story
 
 ### Background
-I am a scholar who returned to Singapore 3 years after graduation to look for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA on this matter.
+I am a scholar who returned to Singapore 3 years after graduation to look for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA to apply for LTVP. Until the issurance of my LTVP, my stay was legalized by a Social Visit Pass (SVP) applied on my behalf by one of my PR friends.
 
 ### Return of Student Pass
 This is hassle-free and takes no time. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticket machine at the door to get a queue number. Wait for 10 min to see an officer and pass her your STP.
 
 I did not return my STP when I graduated. Although the norm is to return your STP within 7 days of your graduation, I did not encounter any problem returning it 3 years later. That being said, just take some time to return it immediately after graduation, as it is very quick.
 
-### Application of LTVP, Part 1
-I was told to apply online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, after I keyed in my information, the system threw an error "The travel document details are not valid.". Later I knew that it was because I had changed my passport before so the number was different. I was forced to go to ICA to enquire in person.
+### Application of LTVP
+I was told to apply online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, after I keyed in my information, the system threw an error __"The travel document details are not valid."__. Later I knew that it was because I had renewed my passport so the passport number had changed. I had to go to ICA to ask the staff to update my passport number manually.
 
-I again went to Level 4 and queued up at the foreigner service counter. The queue can be insane at times, filled with glommy expats musing over their uncertain future. To save time, either go early, at 8:00 am, or go during lunchtime, when the traffic thins noticeably.
+I again went to Level 4 and queued up at the foreigner service counter. The queue can be insane at times, filled with sullen expats musing over their uncertain future. To save time, either go early, at 8:00 am, or go during lunchtime, when the traffic thins noticeably.
 
-The receiptionist at the counter told me that it was because I had changed my passport. She updated my passport particulars, and asked me to go to the e-service center at Level 1 to retry. Unfortunately, the error persisted. The receptionist then directed me to submit my application over the counter and gave me a [form 14](https://www.ica.gov.sg/cms/files/forms/Form14.pdf) to fill in. She also mentioned that I would need a sponsor letter from MOE to facilitate my application.
+The receiptionist at the counter confirmed that the error was caused by my passport renewal. She updated my passport particulars and asked me to go to the e-service center at Level 1 to try again. Unfortunately, the error persisted. The receptionist then directed me to submit my application over the counter and gave me a [form 14](https://www.ica.gov.sg/cms/files/forms/Form14.pdf) to fill in. She also mentioned that I would need a sponsor letter from MOE to facilitate my application and therefore she would not give me a queue number unless I already had the letter in place.
 
-I made a call to the bond manager at NTU. She kindly told me that some of their scholars had no problem using the scholarship agreement as a sponsor letter. I returned to ICA and asked the receptionist again. She insisted that I got a letter from MOE and refused to give me a queue number. My speculation was that because my 6-year bond was comprised of both TG and the company scholarship, the agreement for the company scholarship alone wouldn't suffice. It seemed a convesation with MOE was inevitable.
+Only after a month spent in back-and-forth correspondence with MoE did I manage to find out that the it was actually ICA's fault from the beginning. To clarify a few points:
+__1. For first-time LTVP applicant through the online system, a sponsor letter from MoE is not needed. The letter is only needed for over-the-counter physical application which we are not going to do.__
+__2. The reason that the online system kept throwing error was that the receptionist did not update my passport particular correctly in the first place despite that I had asked her to double check if the info was indeed updated.__
+__3. The officer at the counter, whom I had finally been allowed to see after presenting MoE's email saying that a sponsor letter was not needed, discovered the problem and updated the passport info again for me. This time it worked like a charm and I was able to proceed with online application.__
 
-__Pro-tips__: 
-1. Form 14 reuses a lot of information from form 14a, so if you have a previously completed form 14a, bring it with you. 
-2. Bring a phone with access to the Internet. When the receptionist tell you to retry the e-service, just try on the spot to see if the problem persists. 
-3. Ask specifically whether a sponsor letter from MOE is needed or a scholarship agreement will suffice. 
+I then filed the application online using one of the kiosks at the e-service center. It was fine to bring hardcopies of all relevant documents as they could be scanned with the integrated scanner and uploaded rightaway. When uploading the photo, I encountered a small problem that the scanned image exceeded 64kb which was the maximum file size allowed. Simply use the image editing tool accessable from the interface to cut and resave the image so that it is further compressed.
+
+A $30 processing fee was payable in the end. The fee could only be paid by NETS or credit cards, so having a visa card with sufficient fund could be very handy. The total expense was $120 (or $150 if you also need to extend the SVP later) including another $90 of issurance fee payable after approval.
+
+If your SVP is about to expire, you can apply for an extension online at the kiosk. __The sponsor does not have to be present nor is there any action required on his/her end.__ You can simply complete the process by your own - attached with another $30 processing fee.
+
+Pro-tips: 
+1. The application form for LTVP reuses a lot of information from form 14a, so if you have previously completed form 14a, bring it with you. 
+2. Bring a phone with Internet access. When the receptionist tell you to retry the e-service, just try on the spot to see if the problem disappears. Save some queueing time if it doesn't work.
 
 
-### Application of a Letter of Support from MOE
----TBC---
+### In-principle Approval and Medical Check Up
+I applied on Feb 14 and received the in-principal approval on Mar 1. 
+
+The next thing to do was the medical check-up which consists of
+1. HIV test
+2. Chest X-ray
+
+I also booked an appointment immediately for the collection of the pass. The nearest available slot was on 11 Mar.
+
+For the medical test, I went to SATA CommHealth near Jurong East MRT Station. To go there, simply alight at the station and go to the bus interchange downstairs. Walk across the interchange and cross a road to see J-Cube. The clinic is located in the building next to it with a fairprice on the ground level. Take a lift to go to level 4 to find the clinic.
+
+The cost for the check up was $53.65. As a side note, you don't have to print out the medical form beforehand. Just download it and send it via email to the receptionist at the counter who will print it for you.
+
+The HIV test was administrated with a venipuncture draw. It sounded dreary but was actually a breeze and you would feel nothing after 30 minutes. See [this page](https://healthunlocked.com/cllsupport/posts/132783026/care-tips-after-your-blood-test) for care tips after a blood draw. To put it simply, apply undisturbed pressure to the needle site for 5-10 min with the arm elevated and remove the dressing strip 1 hour after.
+
+
+### Collection of LTVP
+----To be continued.----
 
 ### Facilities around ICA
 There is a **food court** at the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. For printing, you have to go to a **printing shop in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
