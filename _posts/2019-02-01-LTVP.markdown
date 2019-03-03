@@ -5,7 +5,7 @@ date: 2019-2-1
 category: expat
 ---
 ### Background
-I am an SM2 scholar who was majored in chemistry. Like every lab rat, I was having a hard time trying to find a job in the industry after graduation, so much so that the tender and immature me chose to run away from the stress and back home. That has proven to be the worst way of solving the problem. (If you're faced with similar situations, feel free to [drop me an Email](mailto:yliu9055@gmail.com?subject=Enquiry%20on%20Fulfilment%20of%20Bond%20Obligations) or a [LinkedIn message](https://www.linkedin.com/in/yang-liu-643599175/) so that I can properly counsel you and suggest the next step to take.)
+I am an SM2 scholar who majored in chemistry. Like every lab rat, I was having a hard time trying to find a job in the industry after graduation, so much so that the tender and immature me chose to run away from the stress and back home. That has proven to be the worst way of solving the problem. (If you're faced with similar situations, feel free to [drop me an Email](mailto:yliu9055@gmail.com?subject=Enquiry%20on%20Fulfilment%20of%20Bond%20Obligations) or a [LinkedIn message](https://www.linkedin.com/in/yang-liu-643599175/) so that I can properly counsel you and suggest the next step to take.)
 
 Long story short, I returned to Singapore 3 years after graduation to look for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA to apply for a one-year LTVP. 
 
@@ -46,12 +46,12 @@ Only after a month spent in back-and-forth correspondence with MoE did I manage 
 
 I then filed the application online using one of the kiosks at the e-service center. It was fine to bring hardcopies of all relevant documents as they could be scanned with the integrated scanner and uploaded rightaway. When uploading the photo, I encountered a small problem that the scanned image exceeded 64kb which was the maximum file size allowed. Simply use the image editing tool accessable from the interface to cut and resave the image so that it is further compressed.
 
-A \$30 processing fee was payable in the end. The fee could only be paid by NETS or credit cards, so having a visa card with sufficient fund could be very handy. The total expense was \$120 (or \$150 if you also need to extend the SVP later) including another \$90 of issurance fee payable after approval.
+A $30 processing fee was payable in the end. The fee could only be paid by NETS or credit cards, so having a visa card with sufficient fund could be very handy. The total expense was $120 (or $150 if you also need to extend the SVP later) including another $90 of issurance fee payable after approval.
 
-If your SVP is about to expire, you can apply for an extension online at the kiosk. __The sponsor does not have to be present nor is there any action required on his/her end.__ You can simply complete the process by your own - with another \$30 processing fee.
+If your SVP is about to expire, you can apply for an extension online at the kiosk. __The sponsor does not have to be present nor is there any action required on his/her end.__ You can simply complete the application on your own - with another $30 processing fee.
 
 Pro-tips: 
-1. The application form for LTVP reuses a lot of information from form 14a, so if you have previously completed form 14a, bring it with you. 
+1. The application form for LTVP reuses a lot of information from form 14a, so if you have completed form 14a previously, bring it with you. 
 2. Bring a phone with Internet access. When the receptionist tell you to retry the e-service, just try on the spot to see if the problem disappears. Save some queueing time if it doesn't work.
 
 
