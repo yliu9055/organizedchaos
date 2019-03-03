@@ -1,14 +1,21 @@
 ---
 layout: post
-title:  "Applying for LTVP 3 Years after Graduation: A Long Story"
+title:  "Applying for LTVP Three Years after Graduation: A Long Story"
 date: 2019-2-1
 category: expat
 ---
+### Background
+I am an SM2 scholar who was majored in chemistry. Like every lab rat, I was having a hard time trying to find a job in the industry after graduation, so much so that the tender and immature me chose to run away from the stress and back home. That has proven to be the worst way of solving the problem. (If you're faced with similar situations, feel free to [drop me an Email](mailto:yliu9055@gmail.com?subject=Enquiry%20on%20Fulfilment%20of%20Bond%20Obligations) or a [LinkedIn message](https://www.linkedin.com/in/yang-liu-643599175/) so that I can properly counsel you and suggest the next step to take.)
+
+Long story short, I returned to Singapore 3 years after graduation to look for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA to apply for a one-year LTVP. 
+
+As far as I know, it is not possible to submit the application for LTVP from overseas as you have to fill in your D/E card #. So I first asked my best friend who is alrealy a PR to apply for a Social Visit Pass (SVP) for me so that I could personally visit Singapore. The process was extremely facile. Simply prepare all the information needed in [Form 14A](https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf) with a 400*514 digital photo and send it over to your friend to dump into the online system. The result should be out the next day. 
+
 ## ICA Webpage on the Application of Long-Term Visit Pass (LTVP)
-Refer to this page for some background knowledge and the portal to the e-service.
+Refer to this page for some background knowledge and a portal to the e-service.
 [https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl](https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl)
 
-## Required Documents
+### Required Documents
 * Photo
   * 3.5cm x 4.5cm, white background, non-white clothes, Full face with a part of the upper chest. eyes must not be covered by hair/spectacle frames. 
   ![](/organizedchaos/public/portrait.png)
@@ -19,11 +26,6 @@ Refer to this page for some background knowledge and the portal to the e-service
 * D/E card (for those on tourist visa)
 * For graduates who wish to extend their LTVP, or scholars with prolonged unemployment, a [letter of support](https://tgonline.moe.gov.sg/docs/F-UnemploymentAndLTVP%20Extension.pdf) from MOE is needed.
 * (never used but advised to have) scholarship agreements
-
-## My Story
-
-### Background
-I am a scholar who returned to Singapore 3 years after graduation to look for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA to apply for LTVP. Until the issurance of my LTVP, my stay was legalized by a Social Visit Pass (SVP) applied on my behalf by one of my PR friends.
 
 ### Return of Student Pass
 This is hassle-free and takes no time. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticket machine at the door to get a queue number. Wait for 10 min to see an officer and pass her your STP.
@@ -56,24 +58,24 @@ Pro-tips:
 ### In-principle Approval and Medical Check Up
 I applied on Feb 14 and received the in-principal approval on Mar 1. 
 
-The next thing to do was the medical check-up which consists of
+The next step was the medical check-up consisting of
 1. HIV test
 2. Chest X-ray
 
-I also booked an appointment immediately for the collection of the pass. The nearest available slot was on 11 Mar.
+I also booked an appointment for the collection of the pass. The nearest available date was 11 Mar.
 
-For the medical test, I went to SATA CommHealth near Jurong East MRT Station. To go there, simply alight at the station and go to the bus interchange downstairs. Walk across the interchange and cross a road to see J-Cube. The clinic is located in the building next to it with a fairprice on the ground level. Take a lift to go to level 4 to find the clinic.
+For the medical test, I went to SATA CommHealth near Jurong East MRT Station. To go there, simply alight at the MRT station and exit via A to the bus interchange downstairs. Walk across the interchange and cross a road to see J-Cube, a shopping mall. The clinic is located in the building next to it with a fairprice on the ground level. Take a lift to go to level 4 to find the clinic.
 
-The cost for the check up was $53.65. As a side note, you don't have to print out the medical form beforehand. Just download it and send it via email to the receptionist at the counter who will print it for you.
+The cost for the check up was $53.65. As a side note, you don't have to print out the medical form beforehand. Just download it and send it via email to the receptionist at the counter. She'll print it for you.
 
-The HIV test was administrated with a venipuncture draw. It sounded dreary but was actually a breeze and you would feel nothing after 30 minutes. See [this page](https://healthunlocked.com/cllsupport/posts/132783026/care-tips-after-your-blood-test) for care tips after a blood draw. To put it simply, apply undisturbed pressure to the needle site for 5-10 min with the arm elevated and remove the dressing strip 1 hour after.
+The HIV test was in the form of a blood draw. It sounded dreadful but was actually a breeze and you could feel nothing after 30 minutes. See [this page](https://healthunlocked.com/cllsupport/posts/132783026/care-tips-after-your-blood-test) for care tips after a blood draw. To summarize it in one sentence, apply undisturbed pressure to the needle site for 5-10 min with the arm elevated and remove the dressing strip 1 hour after.
 
 
 ### Collection of LTVP
 ----To be continued.----
 
 ### Facilities around ICA
-There is a **food court** at the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. For printing, you have to go to a **printing shop in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
+There is a **food court** outside the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. For printing, you have to go to the **printing shops in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
 
 ## Extra Cautions
 ### Proof of onward travel
