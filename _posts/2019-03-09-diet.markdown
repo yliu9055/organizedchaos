@@ -1,0 +1,124 @@
+---
+layout: post
+title:  "Curbing the Looming Diabetes Threat: My Dietary Plan"
+date: 2019-3-9
+category: expat
+---
+
+We've all had that experience of reading some description of early symptoms of a grave disease and finding it eerily coincident with our minor discomfort. Lately, I have been worrying about my increased consumption of pastries since coming to Singapore. By Googling I stumbled upon an article about diabete warning signs that lists such criteria:
+> * Increased thirst
+> * Increased hunger (especially after eating)
+> * Dry mouth
+> * Frequent urination or urine infections
+> * Unexplained weight loss (even though you are eating and feel hungry)
+> * Fatigue (weak, tired feeling)
+> * Blurred vision
+> * Headaches
+
+-- [_Diabetes Warning Signs_, WebMD.com](https://www.webmd.com/diabetes/diabetes-warning-signs) 
+
+I do more or less experience these discomforts except for weight loss (I am having quite the opposite!). It struck a bell in me that I need to watch my diet more carefully in this decandence-filled modern city. That being said, the toil of counting calories is often daunting even for a seasoned veteran of weight control. Luckily, we don't have to be super accurate in our guestimation. In order to gauge daily calory intake quickly, I devised a system to categorize different dishes roughly by size, and then use these Tetris blocks of different sizes to fill my daily calorie need. This makes the eating guidelines simpler to memorize and substitution for new dishes easier.
+
+### Categories of Food Based on Calories per Serving
+I am a noob cook who constantly dine out so the list consists mainly prepared hawker food. The nutritional values of hawker dishes are taken from [Innovatice Diagnostics' calorie chart of Singaporean Food](http://www.innovativelab.com.sg/wp-content/uploads/2016/03/IDPL-FOOD-CALORIE-CHART-1.pdf) and the fast food from the merchadises' websites.
+
+Food is categorized to four types with increasing amount of energy per serving:
+
+Snacks (150-250 kcal):
+1. 2 apples
+2. 2 bananas
+3. 1 cookie
+4. Salted nuts x 10-15
+5. McDonald vanilla cone
+
+Light meal (350 kcal):
+1. Fishball Noodles
+2. Yong Tau Fu
+3. Subway breakfast sandwiches
+3. McDonald milkshake
+4. Chococone
+4. Plain waffle
+
+Normal meal (550 kcal):
+1. Cai Png (2 veg 1 rice)
+2. Nasi Lemak
+3. Mee Siam
+4. Prawn noodles (soup)
+5. Cheesecake
+6. Subway subs
+
+Hearty meal (750 kcal):
+1. Fried Kway Teow
+2. Fried Hokkien Prawn Mee
+3. Chicken Rice
+4. Chicken Briyani
+5. Whole package of nuts (140g)
+
+
+### Daily Plans
+We can use the categories as building blocks to construct daily healthy-eating plans that contain the necessary calories. Use [this calculator](https://www.calculator.net/calorie-calculator.html) to get your  required daily calorie intake.
+
+My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty meal per day to make the life less miserable. On that premise, I prefer to have more snacks compared to a large meal as it helps alleviate feel of prolonged hunger.
+
+**Plan 1 - no breakfast/supper:**
+Snacks|Light Meal|Normal Meal|Hearty Meal
+-|-|-|-
+3|1|1|0
+2|0|2|0
+2|1|0|1
+1|0|1|1
+* Skipping breakfast isn't as harmful as we perceive. Actually, there are [intermittant fasting plans](https://www.healthline.com/nutrition/intermittent-fasting-guide#methods) that advocate dropping breakfast to increase the body's metabolic rate thus making it burn more fat.
+
+**Plan 2 - three meals:**
+Snacks|Light Meal|Normal Meal|Hearty Meal
+-|-|-|-
+3|3|0|0
+1|2|1|0
+0|1|2|0
+0|2|0|1
+
+You will find that by tweaking the portion of meals and number of snacks, we can build a large variety of plans suitable for every lifestyle or eating pattern. 
+
+**As a sidenote, I'd like to introduce my Holy Grail diet food: cherry tomatoes at 40kcal/160g!!!** Eat as many as you like, whenever you have exceeded the daily calorie quota but still feel hungry.
+
+### Substitution
+Once you choose a plan, simply substitute the categories with food you like or have avaliable to create a fleshed-out plan. Here are some examples.
+
+**Diet 1 - Morning Rush**
+Category|Food | Calories
+-|-----|---------
+Snacks|2 apples | 170
+Snacks|nuts x10 | 150
+Normal Meal|cai png/Mee Siam | 550
+Light Meal|noodles | 350
+Snacks|2 bananas | 180
+total|1500
+
+**Diet 2 - Balanced Meals**
+Category|Food|Calories
+-|-|-
+Snacks|1 Subway cookie | 220
+Light Meal|1 Subway sandwiches | 400
+Normal Meal|cai png/oily noodles | 550
+Light Meal|noodles | 350
+total| 1520
+
+
+**Diet 3 - Sweet Indulgence**
+Category|Food|Calories
+-|-|-
+Normal Meal|cheesecake|500
+Normal Meal|cai png|550
+Light Meal|noodles|350
+Snacks| 1 apple|80
+total|1480
+
+I find that this method not only helps me regulate food consumption, it also makes me guilt-free when enjoying my favorite sweet treats by making me plan out beforehand. Now I have a good idea of how much calories there are in some sinful delights, I can gauge what is the "price" to pay if I want to enjoy one of them - either skipping a meal or dropping several apples from my daily plan.
+
+I have some handy equations here for fellow connoisseurs with a sweet tooth.
+
+1 snack: subway cookie, vanilla cone, marigold cup yogurt, atom ice cream
+
+2 snacks = 1 light meal: waffle, super rings, milkshake, chococone
+
+3 snacks = 1 normal meal: cheesecake
