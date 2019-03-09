@@ -61,7 +61,8 @@ We can use the categories as building blocks to construct daily healthy-eating p
 My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty meal per day to make the life less miserable. On that premise, I prefer to have more snacks compared to a large meal as it helps alleviate feel of prolonged hunger.
 
 **Plan 1 - no breakfast/supper:**
-Snacks|Light Meal|Normal Meal|Hearty Meal
+|Snacks|Light Meal|Normal Meal|Hearty Meal|
+|------|:-------:|:--:|---:|
 3|1|1|0
 2|0|2|0
 2|1|0|1
