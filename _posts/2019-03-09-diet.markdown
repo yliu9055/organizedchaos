@@ -62,7 +62,6 @@ My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty me
 
 **Plan 1 - no breakfast/supper:**
 Snacks|Light Meal|Normal Meal|Hearty Meal
--|-|-|-
 3|1|1|0
 2|0|2|0
 2|1|0|1
@@ -71,7 +70,6 @@ Snacks|Light Meal|Normal Meal|Hearty Meal
 
 **Plan 2 - three meals:**
 Snacks|Light Meal|Normal Meal|Hearty Meal
--|-|-|-
 3|3|0|0
 1|2|1|0
 0|1|2|0
