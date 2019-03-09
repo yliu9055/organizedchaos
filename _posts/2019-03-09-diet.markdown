@@ -61,20 +61,24 @@ We can use the categories as building blocks to construct daily healthy-eating p
 My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty meal per day to make the life less miserable. On that premise, I prefer to have more snacks compared to a large meal as it helps alleviate feel of prolonged hunger.
 
 **Plan 1 - no breakfast/supper:**
-|Snacks|Light Meal|Normal Meal|Hearty Meal|
-|------|:-------:|:--:|---:|
-3|1|1|0
-2|0|2|0
-2|1|0|1
-1|0|1|1
-* Skipping breakfast isn't as harmful as we perceive. Actually, there are [intermittant fasting plans](https://www.healthline.com/nutrition/intermittent-fasting-guide#methods) that advocate dropping breakfast to increase the body's metabolic rate thus making it burn more fat.
+
+|Snacks|Light Meal|Normal Meal|Hearty Meal
+|:-:|:-:|:-:|:-:
+|3|1|1|0
+|2|0|2|0
+|2|1|0|1
+|1|0|1|1
+
+Skipping breakfast isn't as harmful as we perceive. Actually, there are [intermittant fasting plans](https://www.healthline.com/nutrition/intermittent-fasting-guide#methods) that advocate dropping breakfast to increase the body's metabolic rate thus making it burn more fat.
 
 **Plan 2 - three meals:**
-Snacks|Light Meal|Normal Meal|Hearty Meal
-3|3|0|0
-1|2|1|0
-0|1|2|0
-0|2|0|1
+
+|Snacks|Light Meal|Normal Meal|Hearty Meal
+|:-:|:-:|:-:|:-:
+|3|3|0|0
+|1|2|1|0
+|0|1|2|0
+|0|2|0|1
 
 You will find that by tweaking the portion of meals and number of snacks, we can build a large variety of plans suitable for every lifestyle or eating pattern. 
 
@@ -84,40 +88,43 @@ You will find that by tweaking the portion of meals and number of snacks, we can
 Once you choose a plan, simply substitute the categories with food you like or have avaliable to create a fleshed-out plan. Here are some examples.
 
 **Diet 1 - Morning Rush**
-Category|Food | Calories
--|-----|---------
-Snacks|2 apples | 170
-Snacks|nuts x10 | 150
-Normal Meal|cai png/Mee Siam | 550
-Light Meal|noodles | 350
-Snacks|2 bananas | 180
-total|1500
+
+|Category|Food|Calories
+|:-:|:-:|:-:
+|Snacks|2 apples | 170
+|Snacks|nuts x10 | 150
+|Normal Meal|cai png/Mee Siam | 550
+|Light Meal|noodles | 350
+|Snacks|2 bananas | 180
+|Total||1500
 
 **Diet 2 - Balanced Meals**
-Category|Food|Calories
--|-|-
-Snacks|1 Subway cookie | 220
-Light Meal|1 Subway sandwiches | 400
-Normal Meal|cai png/oily noodles | 550
-Light Meal|noodles | 350
-total| 1520
+
+|Category|Food|Calories
+|:-:|:-:|:-:
+|Snacks|1 Subway cookie | 220
+|Light Meal|1 Subway sandwiches | 400
+|Normal Meal|cai png/oily noodles | 550
+|Light Meal|noodles | 350
+|Total|| 1520
 
 
 **Diet 3 - Sweet Indulgence**
-Category|Food|Calories
--|-|-
-Normal Meal|cheesecake|500
-Normal Meal|cai png|550
-Light Meal|noodles|350
-Snacks| 1 apple|80
-total|1480
+
+|Category|Food|Calories
+|:-:|:-:|:-:
+|Normal Meal|cheesecake|500
+|Normal Meal|cai png|550
+|Light Meal|noodles|350
+|Snacks| 1 apple|80
+|Total||1480
 
 I find that this method not only helps me regulate food consumption, it also makes me guilt-free when enjoying my favorite sweet treats by making me plan out beforehand. Now I have a good idea of how much calories there are in some sinful delights, I can gauge what is the "price" to pay if I want to enjoy one of them - either skipping a meal or dropping several apples from my daily plan.
 
 I have some handy equations here for fellow connoisseurs with a sweet tooth.
 
-1 snack: subway cookie, vanilla cone, marigold cup yogurt, atom ice cream
+**1 snack:** subway cookie, vanilla cone, marigold cup yogurt, atom ice cream
 
-2 snacks = 1 light meal: waffle, super rings, milkshake, chococone
+**2 snacks = 1 light meal:** waffle, super rings, milkshake, chococone
 
-3 snacks = 1 normal meal: cheesecake
+**3 snacks = 1 normal meal:** cheesecake

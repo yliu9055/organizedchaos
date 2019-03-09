@@ -17,13 +17,9 @@ img.resize {
 }
 </style>
 
-![1](./public/img/suit.jpg){: .image-left } My name is Liu Yang. I graduated from NTU with a BS. in chemistry. This blog serves to record the questions and answers I've found during my study, work and life, centered on chemistry and expat life in Singapore.
+![1](./public/img/suit.jpg){: .image-left } My name is Liu Yang. I graduated from NTU with a B.S. in chemistry. I have been working as a marketing assistant in a publishing house. 
 
-I am actively looking for a job in Singapore. Feel free to have a look at my resume. 
-
-[Download Word Document](/organizedchaos/public/LiuYangResume.docx)  
-
-[Download PDF](/organizedchaos/public/LiuYangResume.pdf)
+This blog serves to record the questions and answers I've found during my study, work and life, centered on science, IT and expat life in Singapore.
 
 ![2](/organizedchaos/public/img/mail.png){: .resize }  yliu9055@gmail.com
 
