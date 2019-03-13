@@ -5,32 +5,32 @@ date: 2019-2-1
 category: expat
 ---
 ### Background
-I am an SM2 scholar who majored in chemistry. Like every lab rat, I was having a hard time trying to find a job in the industry after graduation, so much so that the tender and immature me chose to run away from the stress and back home. That has proven to be the worst way of solving the problem. (If you're faced with similar situations, feel free to [drop me an Email](mailto:yliu9055@gmail.com?subject=Enquiry%20on%20Fulfilment%20of%20Bond%20Obligations) or a [LinkedIn message](https://www.linkedin.com/in/yang-liu-643599175/) so that I can properly counsel you and suggest the next step to take.)
+I am an SM2 scholar who graduated with a chemistry degree in NTU. Like every lab rat oblivious to outside life, I was having a hard time looking for a job after graduation, to the extent that I fled back home and stayed largely unemployed for 3 years.
 
-Long story short, I returned to Singapore 3 years after graduation to look for a job to serve my bond. I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA to apply for a one-year LTVP. 
+Long story short, I decided to return to Singapore after the long hiatus with the determination to get a job no matter what to discharge my Tuition Grant bond. By God's grace I was able to achieve my goal, get a visit pass and then a job. Thus I figure that I might share how it went to give my fellow expats some faith and insight into the process.
 
-As far as I know, it is not possible to submit the application for LTVP from overseas as you have to fill in your D/E card #. So I first asked my best friend who is alrealy a PR to apply for a Social Visit Pass (SVP) for me so that I could personally visit Singapore. The process was extremely facile. Simply prepare all the information needed in [Form 14A](https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf) with a 400*514 digital photo and send it over to your friend to dump into the online system. The result should be out the next day. 
+I did not apply for an LTVP at the point of my graduation, so it was the first time I approached ICA to apply for a visit pass. As far as I know, it is not possible to submit the application for LTVP overseas as you have to furnish your D/E card #. So I first asked my best friend who was alrealy a PR to apply for a Social Visit Pass (SVP) for me so that I could come to Singapore. The process was quick and easy. Just prepare your [Form 14A](https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf) with a 400*514 digital photo and send them over to your friend to fill the information into the online system. The result should be out in days.
 
 ## ICA Webpage on the Application of Long-Term Visit Pass (LTVP)
 Refer to this page for some background knowledge and a portal to the e-service.
 [https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl](https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl)
 
-### Required Documents
+The required documents are:
 * Photo
   * 3.5cm x 4.5cm, white background, non-white clothes, Full face with a part of the upper chest. eyes must not be covered by hair/spectacle frames. 
   ![](/organizedchaos/public/portrait.png)
 * Digital Photo
   * 400 x 514, jpg format, size <= 60kB
-* Graduation certificate
+* Degree certificate
 * Passport biodata page. must have at least 6-month validity.
-* D/E card (for those on tourist visa)
-* For graduates who wish to extend their LTVP, or scholars with prolonged unemployment, a [letter of support](https://tgonline.moe.gov.sg/docs/F-UnemploymentAndLTVP%20Extension.pdf) from MOE is needed.
-* (never used but advised to have) scholarship agreements
+* D/E card
+* <span style="color:grey"> (not applicable to most) For graduates who wish to extend their existing 1-year LTVP, a [letter of support](https://tgonline.moe.gov.sg/docs/F-UnemploymentAndLTVP%20Extension.pdf) from MOE is needed. </span>
+* <span style="color:grey">(never used but doesn't hurt to have) scholarship agreements</span>
 
 ### Return of Student Pass
-This is hassle-free and takes no time. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticket machine at the door to get a queue number. Wait for 10 min to see an officer and pass her your STP.
+This is quick and hassle-free. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticketing machine at the door to get a queue number. Wait for 10 min to see an officer and hand over your STP.
 
-I did not return my STP when I graduated. Although the norm is to return your STP within 7 days of your graduation, I did not encounter any problem returning it 3 years later. That being said, just take some time to return it immediately after graduation, as it is very quick.
+Although the norm is to return your STP within 7 days of your graduation, I did not encounter any problem returning it 3 years later. That being said, just take a small trip to return it right after graduation to settle the mind.
 
 ### Application of LTVP
 I was told to apply online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, after I keyed in my information, the system threw an error __"The travel document details are not valid."__. Later I knew that it was because I had renewed my passport so the passport number had changed. I had to go to ICA to ask the staff to update my passport number manually.
@@ -56,13 +56,11 @@ Pro-tips:
 
 
 ### In-principle Approval and Medical Check Up
-I applied on Feb 14 and received the in-principal approval on Mar 1. 
+I applied on Feb 14 and got the in-principal approval on Mar 1. I immediately booked an appointment for the collection of the pass. The nearest available date was 11 Mar.
 
 The next step was the medical check-up consisting of
 1. HIV test
 2. Chest X-ray
-
-I also booked an appointment for the collection of the pass. The nearest available date was 11 Mar.
 
 For the medical test, I went to SATA CommHealth near Jurong East MRT Station. To go there, simply alight at the MRT station and exit via A to the bus interchange downstairs. Walk across the interchange and cross a road to see J-Cube, a shopping mall. The clinic is located in the building next to it with a fairprice on the ground level. Take a lift to go to level 4 to find the clinic.
 
@@ -72,7 +70,7 @@ The HIV test was in the form of a blood draw. It sounded dreadful but was actual
 
 
 ### Collection of LTVP
-----To be continued.----
+It took about 1 hour to get your sparkling new LTVP. Hooray!
 
 ### Facilities around ICA
 There is a **food court** outside the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. For printing, you have to go to the **printing shops in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
