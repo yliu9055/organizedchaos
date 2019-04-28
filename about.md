@@ -17,7 +17,7 @@ img.resize {
 }
 </style>
 
-![1](./public/img/suit.jpg){: .image-left } My name is Liu Yang. I graduated from NTU with a B.S. in chemistry. I am currently working as a marketing specialist in a publishing house.
+![1](./public/img/suit.jpg){: .image-left } Graduated from NTU with a B.S. in chemistry, I am working as a marketing specialist in an academic publishing house.
 
 This blog serves to record the questions and answers I've found during my study, work and life, centered on science, IT and expat life in Singapore.
 
