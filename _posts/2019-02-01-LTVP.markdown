@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  "Applying for LTVP Three Years after Graduation: A Long Story"
+title:  "Applying for LTVP Three Years after Graduation: My Personal Experience"
 date: 2019-2-1
 category: expat
 ---
 ### Background
 I am an SM2 scholar who studied chemistry in NTU. Like every lab rat, I had a hard time looking for a job after graduation, to the extent that I fled back home without informing MOE. For 3 years, I worked menial jobs in a small city and lived in fear of being chased down.
 
-Finally, I decided to return to Singapore after the long hiatus with the determination to get a job no matter what to fulfill my obligation. Thank God I was able to achieve my goal, get a visit pass and secure a job. In this article I would like to share the process of obtaining an LTVP to help people who are in a similar situation (if any).
+Finally, I decided to return to Singapore after the long hiatus with the determination to work any job available to fulfill my obligation. Thank God I was able to achieve my goal, got a visit pass and secured a job. The end result was pretty satisfactory and amounted to a new start in my life. So I would like to encourage fellow scholars in a similar situation (if there is any) to do the same instead of living in regrets.
 
-I did not apply for an LTVP at the point of my graduation, so it was the first time I apply for a visit pass. It is not possible to submit the application for LTVP overseas as you have to fill in your D/E card #. So I first asked my best friend who was alrealy a PR to apply for a Social Visit Pass (SVP) for me so that I could come to Singapore. The process was quick and easy. Prepare the info needed in [Form 14A](https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf) with a 400*514 digital photo and send them to your friend for them to apply for a visa for you via SingPass. The result should be out in 1-3 days.
+In this article I would like to share the process of obtaining an LTVP to help people who are in a similar situation.
 
-## ICA Webpage on the Application of Long-Term Visit Pass (LTVP)
+### Social Visit Pass
+It is not possible to submit the application for LTVP overseas as you have to fill in your D/E card Number. So I first asked my best friend who was alrealy a PR to apply for a Social Visit Pass (SVP) for me so I could come to Singapore. The process was quick and easy. Prepare the info needed in [Form 14A](https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf) with a 400*514 digital photo for your friend to apply for a visa for you via SingPass. The result should be out in 1-3 days.
+
+## Preparing Documents for Long-Term Visit Pass (LTVP)
 Refer to this page for details and a portal to the e-service.
 [https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl](https://www.ica.gov.sg/apply/LTVP/apply_LTVP_apply_ihl)
 
@@ -28,55 +31,57 @@ The required documents are:
 * <span style="color:grey">(never used but doesn't hurt to have) scholarship agreements</span>
 
 ### Return Student Pass
-This is quick and hassle-free. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticketing machine at the door to get a queue number. Wait for 10 min to see an officer and hand her your STP.
-
-Although we were requied to return our STP within 7 days of graduation, I did not encounter any problem returning it 3 years later. That being said, just take some time to return it right after graduation to avoid any complications.
+Although we were requied to return our STP within 7 days of graduation, I did not encounter any problem returning it 3 years later. Walk into ICA and go to the 4th Floor, the student pass division. Use the ticketing machine at the door to get a queue number. Wait for 10 min to see an officer and hand over your STP.
 
 ### Update Passport Particulars
-I then proceeded to apply for an LTVP online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, it threw an error saying "travel document invalid".
+I then proceeded to apply for an LTVP online using the [e-VP](https://eservices.ica.gov.sg/esvclandingpage/evp) system. However, The system gave an error saying "travel document invalid".
 
-I went to ICA and the staff told me that it was because my passport has been renewed, so the passport number is now different from the one stored in the system. She updated my passport number and asked me to try again. (Take note that I, out of caution, asked her to double-check if my passport number was indeed updated correctly. She asked an IT guy to check for me and confirmed that it had been updated.)
+This was when a long and excruciating wrestling with ICA started (mainly due to the ineptness of ICA staff).
 
-I went to the e-service center at Level 1 to try the online system again. Unfortunately, the error was still there. I went back and told the receptionists. They were all clueless as well. So the lady asked me to submit my application over the counter and gave me a [form 14](https://www.ica.gov.sg/cms/files/forms/Form14.pdf) to fill in. She also mentioned that I needed a sponsor letter from MOE if I were to submit the application physically over the counter.
+I went to ICA and the receptionist at the counter told me that it was because my passport has been renewed, so the passport number is now different from the one stored in the system. She proceeded to update my passport number and asked me to try again.
 
-So I spent a month in correspondence with MoE and finally managed to find out that it was actually ICA's fault from the beginning! The reason that the online system kept throwing error was that the receptionist did not update my passport particular correctly in the first place. An officer inside the service counter, whom I had finally been allowed to see after presenting MoE's email saying that a sponsor letter was not needed, discovered the problem and updated the passport info again for me. This time it worked like a charm and I was able to use the online system.
+I then went to the e-service center at Level 1 to use the online system. Unfortunately, the error was still present. I went back and told the receptionist. She was also not sure what happened. In the end, she asked me to submit my application over the counter and gave me a [form 14](https://www.ica.gov.sg/cms/files/forms/Form14.pdf) to fill in. She also mentioned that I needed a sponsor letter from MOE if I were to submit the application over the counter instead of via the online system.
+
+So I spent a month writing back and forth with MoE and finally managed to find out that a sponsor letter was not needed! The reason that the online system kept showing error was because the receptionist did not update my passport particulars correctly in the first place. An officer of ICA, whom I had finally been allowed to see after presenting MoE's email, discovered the problem and updated the passport info again. This time it worked like a charm and I was able to use the online system.
 
 ### Online Application
-I then filed the application online using one of the kiosks at the e-service center. You can bring hardcopies of all relevant documents and scan them with an integrated scanner. When uploading the photo, I encountered a small problem that the scanned image exceeded  the maximum file size. In this case, simply use the image editing tool accessable from the interface to crop and save the image so that it is properly compressed.
+I then filed the application online using one of the kiosks at the e-service center. You can bring hardcopies of all relevant documents and scan them with the scanner integrated in the kiosk. When uploading the photo, I encountered a small problem that the scanned image exceeded the maximum file size. In this case, simply use the image editing tool at the top menu bar to crop and save the image so that it is compressed.
 
-I was required to pay a $30 processing fee in the end. The fee could only be paid by NETS or credit cards, so have a visa card at hand if you don't have a local bank card. The total expense was $120 (or $150 if you also need to extend the SVP later) including another $90 of issurance fee payable after approval.
+I was required to pay a $30 processing fee in the end. The fee could only be paid by NETS or credit cards, so having a visa card can be very handy if you don't have a local bank card. The total expense was $120 (or $150 if you also need to extend the Social Visit Pass while waiting for the LTVP approval) including another $90 of issurance fee payable after approval.
 
 If your SVP is about to expire, you can apply for an extension at the kiosk as well. __The sponsor does not have to be present nor is there any action required on his/her end.__ You can simply complete the application on your own - with another $30 processing fee.
 
-Pro-tips: 
-1. The application form for LTVP uses a lot of information from form 14a, so if you have completed form 14a previously, bring it with you. 
-2. Bring a phone with Internet access. When the receptionist tell you to retry the e-service, just try on the spot to see if the problem persists. Save some queueing time if it doesn't work.
+Tips: 
+1. The application form for LTVP reuse a lot of information from form 14a, so if you have completed form 14a previously, bring it with you. 
+2. Bring a phone with Internet access. When the receptionist tell you to retry the e-service, try on the spot to see if the problem persists. Therefore you can immediately raise a question if it doesn't work.
 
 
 ### In-principle Approval and Medical Check Up
-I applied on Feb 14 and got the in-principal approval on Mar 1. I immediately booked an appointment for the collection of the pass. The nearest available date was 11 Mar.
+I applied on Feb 14 and got the in-principal approval on Mar 1. I then booked an appointment for the collection of the pass. The nearest available date was 11 Mar.
 
-The next step was the medical check-up consisting of
+The next step was the medical check-up, including
 1. HIV test
 2. Chest X-ray
 
-For the medical test, I went to SATA CommHealth near Jurong East MRT Station. To go there, simply alight at the MRT station and exit via A to the bus interchange downstairs. Walk across the interchange and cross a road to see J-Cube, a shopping mall. The clinic is located in the building next to it with a fairprice on the ground level. Take a lift to go to level 4 to find the clinic.
+For the medical test, I went to SATA CommHealth near Jurong East MRT Station. It's in a building beside J-Cube with a Fairprice on the ground level. Take the lift to level 4 to find the clinic.
 
-The cost for the check up was $53.65. As a side note, you don't have to print out the medical form beforehand. Just download it and send it via email to the receptionist at the counter. She'll print it for you.
+The cost for the check up was $53.65. On a side note, you don't have to print out the medical form beforehand. Just download it and send it via email to the receptionist at the counter. She'll print it out for you.
 
-The HIV test was in the form of a blood draw. It sounded dreadful but was actually a breeze and the puncture was totally healed after 30 minutes. See [this page](https://healthunlocked.com/cllsupport/posts/132783026/care-tips-after-your-blood-test) for care tips after a blood draw. To summarize it in one sentence, apply undisturbed pressure to the needle site for 5-10 min with the arm elevated and remove the dressing strip 1 hour after.
+The HIV test was done by blood draw. It sounded dreadful but was actually not painful and the puncture was totally healed after 30 minutes. See [this page](https://healthunlocked.com/cllsupport/posts/132783026/care-tips-after-your-blood-test) for care tips after a blood draw. To summarize, apply undisturbed pressure to the needle site for 5-10 min with the arm elevated and remove the dressing strip 1 hour after.
 
 
 ### Collection of LTVP
-It took about 1 hour to get your sparkling new LTVP. Hooray!
+At this point it was only a matter of formalities. It took about 1 hour on that day to go through all the processes and get an LTVP.
 
-### Facilities around ICA
-There is a **food court** outside the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. For printing, you have to go to the **printing shops in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
+### Amenities around ICA
+There is a **food court** outside the B exit of the Lavender MRT station. Alternatively, a cafe can be found at the first floor of ICA, together with **photo-taking booths**. 
+
+If you forget to print any document, you have to go to the **printing shops in the neighbourhood**. Please refer to [my guide on Google Maps](https://goo.gl/maps/484idruqves) as they can be very difficult to find without directions.
 
 ## Extra Cautions
 ### Proof of onward travel
-For anyone __traveling one-way on a tourist visa__, it is a regulatory requirement for airline receptionists to ask for a proof of onward travel - a ticket leaving this country. In my case, my reason to stay long-term at Singapore was completely legit, but that alone was not enough to convince the receptionists to give me my air ticket - even though the customs officer at the destination country didn't bat an eye to let me through. 
+For anyone __traveling one-way on a tourist visa__, it is a regulatory requirement for airline receptionists to ask for a proof of onward travel - a ticket leaving Singapore. In my case, my reason to stay long-term and not to return was completely legit, but that alone was not enough to convince the receptionists to give me my air ticket - even though the customs officer at Changi Airport didn't bat an eye to let me through. 
 
-Thus, it is essential for those __traveling one-way on a tourist visa__ to secure a leaving ticket in advance, or risk missing your flight / spending a lot more to get a return ticket on the spot.
+Thus, it is essential for those __traveling one-way on a tourist visa__ to secure a leaving ticket in advance, or risk spending a lot of money in a hassle to get a return ticket at the airport.
 
-Refer to [this article](https://expertvagabond.com/proof-of-onward-travel/) for economic ways to get a proof of onward travel. It is said that those flying to Singapore can get away by buying a bus ticket to Malaysia, which is very cheap (around $30).
+Refer to [this article](https://expertvagabond.com/proof-of-onward-travel/) for economic ways to get proofs of onward travel. It is said that those flying to Singapore can get away by buying a bus ticket to Malaysia, which is very cheap (around $30).
