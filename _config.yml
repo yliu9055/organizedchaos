@@ -25,10 +25,10 @@ version: 1.0.0
 # About/contact
 author:
   name: Liu Yang
-  description: Passionate about all things chemistry
+  description: Passionate about everything in life
   gravatar: 81295cc93edf00a1a218edb35c273c31 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/yang-liu-643599175/
+    linkedin:  
     github:    https://github.com/yliu9055
     email:     yliu9055@gmail.com
 

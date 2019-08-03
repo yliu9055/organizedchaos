@@ -17,7 +17,7 @@ img.resize {
 }
 </style>
 
-![1](./public/img/suit.jpg){: .image-left } I was graduated from NTU and am currently working as a marketing specialist in Singapore.
+![1](./public/img/suit.png){: .image-left } I was graduated from NTU and am currently working as a marketing specialist in Singapore.
 
 This blog serves to record the questions and answers I've found during my study, work and life.
 
