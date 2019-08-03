@@ -17,10 +17,10 @@ We've all had that experience of reading some description of early symptoms of a
 
 -- [_Diabetes Warning Signs_, WebMD.com](https://www.webmd.com/diabetes/diabetes-warning-signs) 
 
-I do more or less experience these discomforts except for weight loss (I am having quite the opposite!). It struck a bell in me that I need to watch my diet more carefully in this decandence-filled modern city. That being said, the toil of counting calories is often daunting even for a seasoned veteran of weight control. Luckily, we don't have to be super accurate in our guestimation. In order to gauge daily calory intake quickly, I devised a system to categorize different dishes roughly by size, and then use these Tetris blocks of different sizes to fill my daily calorie need. This makes the eating guidelines simpler to memorize and substitution for new dishes easier.
+I do more or less experience these discomforts except for weight loss (I am having quite the opposite!). It struck a bell in me that I need to watch my diet more carefully in this decandence-filled modern era. That being said, the toil of counting calories is often daunting even for a seasoned veteran of weight control. Luckily, we don't have to be super accurate in our guestimation. In order to gauge daily calory intake quickly, I devised a system to categorize different dishes roughly by their calories, and then use these Tetris blocks of different sizes to fill my daily calorie need. This makes the eating guidelines simpler to memorize and inserting new dishes easier.
 
 ### Categories of Food Based on Calories per Serving
-I am a noob cook who constantly dine out so the list consists mainly prepared hawker food. The nutritional values of hawker dishes are taken from [Innovatice Diagnostics' calorie chart of Singaporean Food](http://www.innovativelab.com.sg/wp-content/uploads/2016/03/IDPL-FOOD-CALORIE-CHART-1.pdf) and the fast food from the merchadises' websites.
+I constantly dine out so the list consists mainly prepared hawker food. The nutritional values of hawker dishes are taken from [Innovatice Diagnostics' calorie chart of Singaporean Food](http://www.innovativelab.com.sg/wp-content/uploads/2016/03/IDPL-FOOD-CALORIE-CHART-1.pdf) and the fast food from the merchadises' websites.
 
 Food is categorized to four types with increasing amount of energy per serving:
 
@@ -58,7 +58,7 @@ Hearty meal (750 kcal):
 ### Daily Plans
 We can use the categories as building blocks to construct daily healthy-eating plans that contain the necessary calories. Use [this calculator](https://www.calculator.net/calorie-calculator.html) to get your  required daily calorie intake.
 
-My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty meal per day to make the life less miserable. On that premise, I prefer to have more snacks compared to a large meal as it helps alleviate feel of prolonged hunger.
+My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty meal per day to make it easier to stick with the plan. On that premise, I prefer to have multiple snacks compared to one large meal as it helps avoid sustained feel of hunger.
 
 **Plan 1 - no breakfast/supper:**
 
@@ -69,7 +69,7 @@ My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty me
 |2|1|0|1
 |1|0|1|1
 
-Skipping breakfast isn't as harmful as we perceive. Actually, there are [intermittant fasting plans](https://www.healthline.com/nutrition/intermittent-fasting-guide#methods) that advocate dropping breakfast to increase the body's metabolic rate thus making it burn more fat.
+Skipping breakfast isn't as harmful as we perceive. Actually, [Intermittant fasting plans](https://www.healthline.com/nutrition/intermittent-fasting-guide#methods) advise dropping breakfast to increase the body's metabolic rate thus making it burn more fat.
 
 **Plan 2 - three meals:**
 
@@ -85,7 +85,7 @@ You will find that by tweaking the portion of meals and number of snacks, we can
 **As a sidenote, I'd like to introduce my Holy Grail diet food: cherry tomatoes at 40kcal/160g!!!** Eat as many as you like, whenever you have exceeded the daily calorie quota but still feel hungry.
 
 ### Substitution
-Once you choose a plan, simply substitute the categories with food you like or have avaliable to create a fleshed-out plan. Here are some examples.
+Once you choose a plan, simply substitute the placeholders with food in that category. Here are some examples.
 
 **Diet 1 - Morning Rush**
 
@@ -119,7 +119,7 @@ Once you choose a plan, simply substitute the categories with food you like or h
 |Snacks| 1 apple|80
 |Total||1480
 
-I find that this method not only helps me regulate food consumption, it also makes me guilt-free when enjoying my favorite sweet treats by making me plan out beforehand. Now I have a good idea of how much calories there are in some sinful delights, I can gauge what is the "price" to pay if I want to enjoy one of them - either skipping a meal or dropping several apples from my daily plan.
+I find that this method not only helps me regulate food consumption, it also makes me guilt-free when enjoying my favorite sweet treats by planning out beforehand. Now I have a good idea of how much calories there are in some sinful delights, I can gauge what is the "price" to pay if I want to enjoy one of them - either skipping a meal or dropping several snacks from my daily plan.
 
 I have some handy equations here for fellow connoisseurs with a sweet tooth.
 
