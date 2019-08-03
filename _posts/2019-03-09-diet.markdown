@@ -5,7 +5,7 @@ date: 2019-3-9
 category: expat
 ---
 
-We've all had that experience of reading some description of early symptoms of a grave disease and finding it eerily coincident with our minor discomfort. Lately, I have been worrying about my increased consumption of pastries since coming to Singapore. By Googling I stumbled upon an article about diabete warning signs that lists such dreadful criteria:
+We've all had that experience of reading some description of early symptoms of a grave disease and finding it eerily coincident with our minor discomfort. Lately, I have been worrying about my increased consumption of pastries. By Googling I stumbled upon an article about diabete warning signs that lists some dreadful criteria:
 > * Increased thirst
 > * Increased hunger (especially after eating)
 > * Dry mouth
