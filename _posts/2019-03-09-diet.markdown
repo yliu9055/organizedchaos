@@ -5,7 +5,8 @@ date: 2019-3-9
 category: expat
 ---
 
-We've all had that experience of reading some description of early symptoms of a grave disease and finding it eerily coincident with our minor discomfort. Lately, I have been worrying about my increased consumption of pastries. By Googling I stumbled upon an article about diabete warning signs that lists some dreadful criteria:
+We've all had that experience of reading some description of early symptoms of a grave disease and finding it eerily coincident with our minor discomfort. Lately, I have been worrying about my increased consumption of pastries. By Googling I stumbled upon an article about diabete warning signs that lists some dreadfully familiar criteria:
+
 > * Increased thirst
 > * Increased hunger (especially after eating)
 > * Dry mouth
@@ -17,10 +18,10 @@ We've all had that experience of reading some description of early symptoms of a
 
 -- [_Diabetes Warning Signs_, WebMD.com](https://www.webmd.com/diabetes/diabetes-warning-signs) 
 
-I do more or less experience these discomforts except for weight loss (I am having quite the opposite!). It struck a bell in me that I need to watch my diet more carefully in this decandence-filled modern era. That being said, the toil of counting calories is often daunting even for a seasoned veteran of weight control. Luckily, we don't have to be super accurate in our guestimation. In order to gauge daily calory intake quickly, I devised a system to categorize different dishes roughly by their calories, and then use these Tetris blocks of different sizes to fill my daily calorie need. This makes the eating guidelines simpler to memorize and inserting new dishes easier.
+I do more or less experience these symptoms except for weight loss (I am having quite the opposite!). It struck a bell in me that I need to watch my diet more carefully in this decandence-filled modern city of Singapore. That being said, the toil of counting calories is often daunting even for a seasoned veteran of body building. Luckily, we don't have to be super accurate in our guestimation. In order to gauge daily calory intake efficiently, I've devised a system to categorize different dishes roughly by their calories, and then use these Tetris blocks of different sizes to plan my daily intake. This makes the diet guidelines simpler to memorize and easier to add new dishes.
 
 ### Categories of Food Based on Calories per Serving
-I constantly dine out so the list consists mainly prepared hawker food. The nutritional values of hawker dishes are taken from [Innovatice Diagnostics' calorie chart of Singaporean Food](http://www.innovativelab.com.sg/wp-content/uploads/2016/03/IDPL-FOOD-CALORIE-CHART-1.pdf) and the fast food from the merchadises' websites.
+I constantly dine out so the list mainly consists of prepared hawker food. The nutritional values of hawker dishes are taken from [Innovatice Diagnostics' calorie chart of Singaporean Food](http://www.innovativelab.com.sg/wp-content/uploads/2016/03/IDPL-FOOD-CALORIE-CHART-1.pdf) and the fast food from the the vendor's websites.
 
 Food is categorized to four types with increasing amount of energy per serving:
 
@@ -29,14 +30,11 @@ Snacks (150-250 kcal):
 2. 2 bananas
 3. 1 cookie
 4. Salted nuts x 10-15
-5. McDonald vanilla cone
 
 Light meal (350 kcal):
 1. Fishball Noodles
 2. Yong Tau Fu
 3. Subway breakfast sandwiches
-3. McDonald milkshake
-4. Chococone
 4. Plain waffle
 
 Normal meal (550 kcal):
@@ -44,7 +42,6 @@ Normal meal (550 kcal):
 2. Nasi Lemak
 3. Mee Siam
 4. Prawn noodles (soup)
-5. Cheesecake
 6. Subway subs
 
 Hearty meal (750 kcal):
@@ -56,9 +53,7 @@ Hearty meal (750 kcal):
 
 
 ### Daily Plans
-We can use the categories as building blocks to construct daily healthy-eating plans that contain the necessary calories. Use [this calculator](https://www.calculator.net/calorie-calculator.html) to get your  required daily calorie intake.
-
-My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty meal per day to make it easier to stick with the plan. On that premise, I prefer to have multiple snacks compared to one large meal as it helps avoid sustained feel of hunger.
+We can use the categories as building blocks to construct daily diet plans that contain the desired number of calories. Use [this calculator](https://www.calculator.net/calorie-calculator.html) to get your necessary daily calorie intake. My goal is to eat 1500 kcal/day. 
 
 **Plan 1 - no breakfast/supper:**
 
@@ -69,7 +64,7 @@ My goal is to eat 1500 kcal/day. Normally, I aim for at least 1 normal/hearty me
 |2|1|0|1
 |1|0|1|1
 
-Skipping breakfast isn't as harmful as we perceive. Actually, [Intermittant fasting plans](https://www.healthline.com/nutrition/intermittent-fasting-guide#methods) advise dropping breakfast to increase the body's metabolic rate thus making it burn more fat.
+Skipping breakfast isn't as harmful as we perceive. Actually, [Intermittant fasting](https://www.healthline.com/nutrition/intermittent-fasting-guide#methods) encourages dropping breakfast to increase the body's metabolic rate thus making the fat burn faster.
 
 **Plan 2 - three meals:**
 
@@ -80,7 +75,7 @@ Skipping breakfast isn't as harmful as we perceive. Actually, [Intermittant fast
 |0|1|2|0
 |0|2|0|1
 
-You will find that by tweaking the portion of meals and number of snacks, we can build a large variety of plans suitable for every lifestyle or eating pattern. 
+You will find that by tweaking the portion of meals and number of snacks, we can build a large variety of plans suitable for every lifestyle. 
 
 **As a sidenote, I'd like to introduce my Holy Grail diet food: cherry tomatoes at 40kcal/160g!!!** Eat as many as you like, whenever you have exceeded the daily calorie quota but still feel hungry.
 
@@ -119,12 +114,4 @@ Once you choose a plan, simply substitute the placeholders with food in that cat
 |Snacks| 1 apple|80
 |Total||1480
 
-I find that this method not only helps me regulate food consumption, it also makes me guilt-free when enjoying my favorite sweet treats by planning out beforehand. Now I have a good idea of how much calories there are in some sinful delights, I can gauge what is the "price" to pay if I want to enjoy one of them - either skipping a meal or dropping several snacks from my daily plan.
-
-I have some handy equations here for fellow connoisseurs with a sweet tooth.
-
-**1 snack:** subway cookie, vanilla cone, marigold cup yogurt, atom ice cream
-
-**2 snacks = 1 light meal:** waffle, super rings, milkshake, chococone
-
-**3 snacks = 1 normal meal:** cheesecake
+I find that this method not only helps me regulate food consumption, it also makes me guilt-free when enjoying sweet treats by planning out beforehand. Now I have a good idea of how much calories there are in some sinful delights, I can gauge what is the "price" to pay if I want to enjoy one of them - skipping either a meal or several snacks from my daily plan.
