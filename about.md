@@ -17,8 +17,10 @@ img.resize {
 }
 </style>
 
-![1](./public/img/suit.png){: .image-left } I graduated from NTU and am currently working as a marketing specialist in Singapore.
+![1](./public/img/suit.png){: .image-left }
 
-This blog serves to record the questions and answers I've found during my study, work and life.
+Hi! I'm Yang and I'm currently learning front-end web development.
+
+This blog serves to record the questions and answers I found during my study.
 
 ![2](/organizedchaos/public/img/mail.png){: .resize }  yliu9055@gmail.com
